@@ -178,13 +178,17 @@ This approach ensures a consistent and optimized experience across all devices.
 ```text
 shopify-clone/
 │
-├── index.html
-├── products.html
-├── cart.html
-├── js/
-│   └── script.js
-├── images/
-└── tailwind.config.js
+├── 
+│
+├── src/
+│   ├── input.css
+│   └── output.css
+|   └── index.html
+│
+├── Icons/
+│
+├── package.json
+├── package-lock.json
 ```
 
 ---
