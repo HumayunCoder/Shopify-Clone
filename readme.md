@@ -11,7 +11,6 @@ The primary goal of this project is to demonstrate modern frontend development p
 ## Technologies Used
 
 * HTML5
-* JavaScript
 * Tailwind CSS
 * Responsive Web Design
 * CSS Grid
