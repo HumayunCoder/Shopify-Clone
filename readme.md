@@ -177,7 +177,6 @@ This approach ensures a consistent and optimized experience across all devices.
 ```text
 shopify-clone/
 │
-├── 
 │
 ├── src/
 │   ├── input.css
